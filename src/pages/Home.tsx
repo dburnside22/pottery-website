@@ -35,7 +35,7 @@ const Home = () => {
 
   return (
     <div className="text-center">
-      <h1 className="mb-8 text-4xl font-bold">Welcome to Pottery Maker</h1>
+      <h1 className="mb-8 text-4xl font-bold">Welcome to Greene Pottery</h1>
       <p className="mb-8 text-lg">Discover the beauty of handcrafted pottery</p>
 
       <div className="relative w-full max-w-2xl mx-auto mb-12">
